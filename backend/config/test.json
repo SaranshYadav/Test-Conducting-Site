@@ -1,0 +1,8 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://saransh:<password>@cluster0.fbbe7io.mongodb.net/Online-Exam-Portal"
+  },
+  "jwt": {
+      "secret" : "Examination Portal Application test"
+  }
+}
