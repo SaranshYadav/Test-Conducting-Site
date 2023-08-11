@@ -81,3 +81,8 @@ Start the frontend client for teacher/student
 ```
 
 <b>Note</b> : admin user is created when backend runs first time. default admin (username, password) details are <b>("sysadmin","systemadmin"). addAdminIfNotFound() function of backend/services/admin.js file </b> is for this logic. You can check/modify default admin details from this function.
+## :gem: Acknowledgements
+Following libraries have been used in this projects.
+
+ - [Material UI](https://www.mui.com)
+ - [Passport JS](https://www.passportjs.org/)
