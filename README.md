@@ -5,7 +5,6 @@ An exam portal to conduct online mcq test
   <summary>Frontend</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://react-redux.js.org/">React-Redux</a></li>
     <li><a href="https://www.mui.com">Material UI library</a></li>
     <li><a href="https://html.com/html5/">HTML 5</a></li>
     <li><a href="https://www.css3.com/">CSS 3</a></li>
@@ -17,7 +16,6 @@ An exam portal to conduct online mcq test
   <ul>
     <li><a href="https://www.nodejs.org">Node.js</a></li>
     <li><a href="https://www.expressjs.com/">Express.js</a></li>
-    <li><a href="https://www.passportjs.org/">Passport.js</a></li>
   </ul>
 </details>
 
