@@ -79,6 +79,7 @@ Start the frontend client for teacher/student
   cd user-portal-frontend
   npm start
 ```
+![86c81288-4117-405c-b885-343561468d73](https://github.com/SaranshYadav/Test-Conducting-Site/assets/97433080/73ae83cf-fa57-44bd-a894-93ee73e44d8a)
 
 <b>Note</b> : admin user is created when backend runs first time. default admin (username, password) details are <b>("sysadmin","systemadmin"). addAdminIfNotFound() function of backend/services/admin.js file </b> is for this logic. You can check/modify default admin details from this function.
 ## :gem: Acknowledgements
