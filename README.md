@@ -149,4 +149,3 @@ Students also can take view the upcoming test and attempt it.
 Following libraries have been used in this projects.
 
  - [Material UI](https://www.mui.com)
- - [Passport JS](https://www.passportjs.org/)
